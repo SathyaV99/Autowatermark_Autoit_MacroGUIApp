@@ -11,5 +11,6 @@ This automation is only to make the watermarking process convenient, and to redu
 
 
 You can get PDFill from here: http://www.pdfill.com/pdf_tools_free.html, this script using autoit should make it much easier to watermark.
+![image](https://user-images.githubusercontent.com/88423149/165281920-47e41246-690e-40e8-8f87-0371fb64d2d4.png)
 
 It takes about 40 seconds on an average to watermark, add footer text and split the pages, which makes this much more efficient.
