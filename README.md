@@ -8,4 +8,4 @@ This is the KFD UI built for the wmarking
 
 
 
-It takes about 40 seconds on an average to watermark, add footer text and split the pages, which makes this much more efficient.
+It takes about 40 seconds on an average to wmark, add footer text and split the pages, which makes this much more efficient.
